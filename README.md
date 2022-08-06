@@ -1,2 +1,3 @@
-# N7jkvi3.github.io
-My Notes Repository
+# My Notes Backup & Share
+
+用來存放和備份我的筆記。
