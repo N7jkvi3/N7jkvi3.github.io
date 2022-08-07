@@ -21,6 +21,7 @@ python -m ipykernel install
 - 在上方工具列的【檔案(F)】中選擇新增檔案；
 - 使用快捷鍵 `Ctrl + Shift + p`[^2]，叫出指令欄，輸入 `Create: New Jupyter Notebook`[^3]。
 
+***
 
 [^1]: 這邊提供三種開啟終端機的方法：<br>- 在工作列的Windows按鈕上右鍵，選擇【Windows 終端機】；<br>- 使用快捷鍵 `win + x`，選擇【Windows 終端機】；<br>- 在檔案總管的標題列(地址列)中，輸入 `cmd` 或 `powershell`。
 
