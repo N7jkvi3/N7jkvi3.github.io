@@ -1,1 +1,21 @@
 theme: jekyll-theme-cayman
+markdown: GFM
+plugins:
+  - jekyll-relative-links # https://github.com/benbalter/jekyll-relative-links
+  - jekyll-titles-from-headings # https://github.com/benbalter/jekyll-titles-from-headings
+
+
+# -----Plug Set-----
+
+# jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+# jekyll-titles-from-headings
+titles_from_headings:
+  enabled: true
+  collections: true
+
+# ----------
+title: Anna's Blog
