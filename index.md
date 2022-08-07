@@ -3,4 +3,4 @@
 
 ## 最近新增
 
-[如何在VS Code使用Jupyter Notebook](使用紀錄/如何在VS Code使用Jupyter Notebook.md)
+[如何在VS Code使用Jupyter Notebook](使用紀錄/JupyterNotebookinVSC.md)
